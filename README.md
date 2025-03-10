@@ -18,7 +18,7 @@ Pythify is a Python-based music streaming and downloading application with Spoti
 - **Queue System**: Manage a queue of songs for playback.
 - **Shuffle and Loop**: Toggle shuffle or loop functionality.
 - **Download Progress Dialog**: Track the progress of downloads.
-- **Dark Theme**: Sleek dark UI with intuitive controls.
+
 
 ## Installation
 ### Requirements
