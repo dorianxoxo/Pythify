@@ -1,4 +1,4 @@
-# Pythify - A Lightweight Spotify Desktop Client
+# Pythify - An open-source Lightweight Spotify Desktop Client
 
 ## Overview
 Pythify is a Python-based music streaming and downloading application with Spotify authentication, YouTube audio extraction, and VLC-powered playback. It features a user-friendly PyQt6 GUI, allowing users to search, play, and download music tracks.
