@@ -23,7 +23,7 @@ Pythify is a Python-based music streaming and downloading application with Spoti
 - Python 3.8+
 - Required Python packages:
   ```sh
-  pip install PyQt6 requests yt_dlp spotipy vlc
+  pip install PyQt6 requests yt_dlp spotipy python-vlc
   ```
 - VLC media player installed on your system.
 
