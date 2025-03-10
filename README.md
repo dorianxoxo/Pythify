@@ -15,7 +15,6 @@ Pythify is a Python-based music streaming and downloading application with Spoti
 - **Spotify Integration**: Authenticate and access your Spotify library, playlists, and liked songs.
 - **YouTube Streaming**: Search and play music from YouTube.
 - **Music Downloads**: Download tracks and store them locally.
-- **Queue System**: Manage a queue of songs for playback.
 - **Shuffle and Loop**: Toggle shuffle or loop functionality.
 
 
