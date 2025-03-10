@@ -9,7 +9,7 @@ Pythify is a Python-based music streaming and downloading application with Spoti
 
 ⚠ **Albums Section Notice:** The albums section is currently not working and will be fixed in a future update.
 
-⚠ **Legal Disclaimer:** This application is intended for personal and legal use only. The developer is not responsible for any misuse of the software, including but not limited to copyright infringement or illegal downloading of copyrighted content. Users are responsible for ensuring compliance with applicable laws in their country.
+⚠ **Legal Disclaimer:** This application is intended for personal and legal use only. I am not responsible for any misuse of the software, including but not limited to copyright infringement or illegal downloading of copyrighted content. Users are responsible for ensuring compliance with applicable laws in their country.
 
 ## Features
 - **Spotify Integration**: Authenticate and access your Spotify library, playlists, and liked songs.
