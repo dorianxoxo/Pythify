@@ -32,7 +32,7 @@ Pythify is a Python-based music streaming and downloading application with Spoti
 2. Click on the **Account** menu and select **Login to Spotify**.
 3. Enter your Spotify **Client ID**, **Client Secret**, and **Redirect URI** (default: `http://localhost:8888/callback`).
 4. Click **OK** and follow the authentication flow.
-5. Once authenticated, your Spotify username will appear at the top.
+
 
 ## How It Works
 ### Searching for Music
