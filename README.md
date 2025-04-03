@@ -3,6 +3,9 @@
 ## Overview
 Pythify is a Python-based music streaming and downloading application with Spotify authentication, YouTube audio extraction, and VLC-powered playback. It features a user-friendly PyQt6 GUI, allowing users to search, play, and download music tracks.
 
+
+⚠ **Note:** The app might get caught by an antivirus as a false positive, this is because the way i packaged the app with pyinstaller and becausee its not signed.
+
 ⚠ **Note:** This project is still under development. It is known to have bugs and may crash unexpectedly.
 
 🚨 **VLC Error Notice:** If you encounter any errors related to VLC, ensure that you have installed the 64-bit version from the official website: [Download VLC (64-bit)](https://www.videolan.org/vlc/)
